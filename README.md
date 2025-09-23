@@ -1,4 +1,5 @@
-# mbhagwat00.github.io
+# Mudra’s Website
 
-This is my first GitHub Pages website!  
-You can view it live here: [mbhagwat00.github.io](https://mbhagwat00.github.io)
+This repository hosts my personal website on GitHub Pages.  
+👉 Live here: [mbhagwat00.github.io](https://mbhagwat00.github.io)
+
